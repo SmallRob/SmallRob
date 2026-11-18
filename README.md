@@ -11,6 +11,8 @@
 
 <img src="assets/divider.svg" alt="divider" width="100%" height="8">
 
+<img src="assets/pinned.svg" alt="Pinned and featured repositories" width="100%">
+
 </div>
 
 ## About
